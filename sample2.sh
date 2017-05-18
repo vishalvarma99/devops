@@ -6,7 +6,7 @@ then
         echo "file $FILE exist"
 git add $FILE
 git commit -m $FILE
-git push mygithub2
+git push mygithub5
 else
         echo "file $FILE does not exist"
 fi
